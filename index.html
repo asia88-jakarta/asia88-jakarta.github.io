@@ -4,8 +4,8 @@
 <head>
 <meta charset='utf-8'>
 <title>Asia88 ⚡ Perang Lawan Ikan Sapu-Sapu di Kali Cideng Jakarta 2026</title>
-<link rel="icon" type="image/x-icon" href="https://pafiibukotabandung.org/favicon-kera4d.png" />
-<link rel="apple-touch-icon" href="https://pafiibukotabandung.org/favicon-kera4d.png">
+<link rel="icon" type="image/x-icon" href=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" />
+<link rel="apple-touch-icon" href=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901">
 <link rel="canonical" href="https://pafiibukotabandung.org/">
 <link rel="amphtml" href="https://ampkadowin.site/" />
 <link rel="alternate" hreflang="id-id" href="https://ampkadowin.site/" />
@@ -585,49 +585,49 @@ Shop All Designs
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://pafiibukotabandung.org/" title="Halloween T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://pafiibukotabandung.org/favicon-kera4d.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://pafiibukotabandung.org/" title="Halloween T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 KERA4D 
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://pafiibukotabandung.org/" title="Music T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://pafiibukotabandung.org/favicon-kera4d.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://pafiibukotabandung.org/" title="Music T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 SITUS KERA4D
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://pafiibukotabandung.org/" title="Sport T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://pafiibukotabandung.org/favicon-kera4d.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://pafiibukotabandung.org/" title="Sport T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 KERA4D DAFTAR 
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://pafiibukotabandung.org/" title="Movie T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://pafiibukotabandung.org/favicon-kera4d.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://pafiibukotabandung.org/" title="Movie T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 KERA4D EDUKASI
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://pafiibukotabandung.org/" title="Vintage T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://pafiibukotabandung.org/favicon-kera4d.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://pafiibukotabandung.org/" title="Vintage T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 KERA4D LAYANAN 
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://pafiibukotabandung.org/" title="Animal T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://pafiibukotabandung.org/favicon-kera4d.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://pafiibukotabandung.org/" title="Animal T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 KERA4D TERBARU
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://pafiibukotabandung.org/" title="Television T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://pafiibukotabandung.org/favicon-kera4d.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://pafiibukotabandung.org/" title="Television T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 KERA4D RESMI
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://pafiibukotabandung.org/" title="Funny T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src="https://pafiibukotabandung.org/favicon-kera4d.png" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://pafiibukotabandung.org/" title="Funny T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
 KERA4D GACOR
 </span>
@@ -1680,7 +1680,7 @@ Selamat datang di KERA4D Akses Resmi Google Update Terbaru Tanpa Gangguan Server
 </style>
 
         <picture class="m-design-product-info--product-quality-image">
-          <source srcset="https://pafiibukotabandung.org/favicon-kera4d.png" type="image/avif">
+          <source srcset=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" type="image/avif">
           <source srcset="https://assets.teepublic.com/assets/misc/quality-82ed70decf30530cfacab675c1abe90f87af861c6185313a378f7d22fb3a8905.webp" type="image/webp">
           <img loading="lazy" src="https://assets.teepublic.com/assets/misc/quality-105f88ff211ef8ffbcf207c25f6af68585f8713382fdd7662c0ba7a0f50a105e.png" alt="Quality" />
         </picture>
@@ -3420,23 +3420,23 @@ Shop All Designs
 
 <div class="KERA4D-fixed-footer">
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener">
-    <img src="https://pafiibukotabandung.org/favicon-kera4d.png" alt="BONUS KERA4D">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="BONUS KERA4D">
     PROMO
   </a>
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener">
-    <img src="https://pafiibukotabandung.org/favicon-kera4d.png" alt="LOGIN KERA4D">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="LOGIN KERA4D">
     LOGIN
   </a>
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener" class="tada">
-    <img src="https://pafiibukotabandung.org/favicon-kera4d.png" alt="DAFTAR KERA4D">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="DAFTAR KERA4D">
     DAFTAR
   </a>
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener">
-    <img src="https://pafiibukotabandung.org/favicon-kera4d.png" alt="WHATSAPP KERA4D">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="WHATSAPP KERA4D">
     WHATSAPP
   </a>
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener">
-    <img src="https://pafiibukotabandung.org/favicon-kera4d.png" alt="LIVE CHAT KERA4D">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="LIVE CHAT KERA4D">
     LIVE CHAT
   </a>
 </div>
