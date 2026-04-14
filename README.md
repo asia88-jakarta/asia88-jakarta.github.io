@@ -6,7 +6,7 @@
 <title>Asia88 ⚡ Perang Lawan Ikan Sapu-Sapu di Kali Cideng Jakarta 2026</title>
 <link rel="icon" type="image/x-icon" href=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" />
 <link rel="apple-touch-icon" href=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901">
-<link rel="canonical" href="https://pafiibukotabandung.org/">
+<link rel="canonical" href="https://asia88-jakarta.github.io/">
 <link rel="amphtml" href="https://ampkadowin.site/" />
 <link rel="alternate" hreflang="id-id" href="https://ampkadowin.site/" />
 <link as='image' href='https://ik.imagekit.io/hosterin/kelas.png' rel='preload'>
@@ -15,10 +15,10 @@
 <link crossorigin href='https://www.googletagmanager.com' rel='preconnect'>
 <link crossorigin href='https://www.gstatic.com' rel='preconnect'>
 <link crossorigin href='https://connect.facebook.net' rel='preconnect'>
-<link rel="alternate" href="https://pafiibukotabandung.org/" />
-<link rel="alternate" hreflang="id" href="https://pafiibukotabandung.org/" />
-<link rel="alternate" hreflang="en" href="https://pafiibukotabandung.org/" />
-<link rel="alternate" hreflang="x-default" href="https://pafiibukotabandung.org/" />
+<link rel="alternate" href="https://asia88-jakarta.github.io/" />
+<link rel="alternate" hreflang="id" href="https://asia88-jakarta.github.io/" />
+<link rel="alternate" hreflang="en" href="https://asia88-jakarta.github.io/" />
+<link rel="alternate" hreflang="x-default" href="https://asia88-jakarta.github.io/" />
 <meta name="google-site-verification" content="wxm6TpxJlOWFYRH7IPireuhqTbVjfJZX-8lXJSntFco" />
 <link rel="stylesheet" href="https://assets.teepublic.com/assets/bundles/product-27efacddfffc4e9541c100011b9e0cf4258b53d4bd8386ac5e37135f3cd07974.css" media="all" />
 <link as='font' crossorigin='anonymous' href='https://assets.teepublic.com/assets/Roobert-Medium-88ba78029f73fa9f18e1e3c31c1f076acdc49223af70a78b2ea4bdbab8168283.woff2' rel='preload' type='font/woff2'>
@@ -48,8 +48,8 @@
       trackLongTasks: true,
       defaultPrivacyLevel: 'mask-user-input',
       allowedTracingUrls: [
-        'https://pafiibukotabandung.org/',
-        'https://pafiibukotabandung.org/'
+        'https://asia88-jakarta.github.io/',
+        'https://asia88-jakarta.github.io/'
       ]
     });
   })
@@ -66,7 +66,7 @@
 <meta property="og:price:amount" content="10.000">
 <meta property="og:price:currency" content="IDR">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://pafiibukotabandung.org/">
+<meta property="og:url" content="https://asia88-jakarta.github.io/">
 <meta property="og:image" content="https://ik.imagekit.io/hosterin/kelas.png">
 <meta property="og:site_name" content="TeePublic">
 <meta property="product:price:amount" content="25.00">
@@ -81,7 +81,7 @@
   window.dataLayer = window.dataLayer || [];
 </script>
 <script>
-  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://pafiibukotabandung.org/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74165272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"74165272D1V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74165272_0.jpg","design__url":"https://pafiibukotabandung.org/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"Asia88 Perang melawan ikan sapu-sapu di Kali Cideng, Jakarta Pusat semakin gencar. Pemprov DKI bersama 100 petugas tangkap puluhan ekor ikan invasif di depan Plaza Indonesia. Simak kronologi, alasan bahaya, dan rencana Pramono Anung basmi secara masif.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"15618785B5F25G95A1M"})
+  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://asia88-jakarta.github.io/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74165272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"74165272D1V","design__variant_id":"19G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74165272_0.jpg","design__url":"https://asia88-jakarta.github.io/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"Asia88 Perang melawan ikan sapu-sapu di Kali Cideng, Jakarta Pusat semakin gencar. Pemprov DKI bersama 100 petugas tangkap puluhan ekor ikan invasif di depan Plaza Indonesia. Simak kronologi, alasan bahaya, dan rencana Pramono Anung basmi secara masif.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"george-kittle","design__owner_type":"designer","design__owner_id":6075586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey siriusly","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"15618785B5F25G95A1M"})
 </script>
 <script>
   window.dataLayer.push({
@@ -94,7 +94,7 @@
           "product_id": "357",
           "price": "23.0",
           "price_usd": "23.0",
-          "name": "KERA4D",
+          "name": "Asia88",
           "id": "74165272",
           "brand": "Hey siriusly",
           "design_color": "Red",
@@ -484,11 +484,11 @@ ga('require', 'GTM-KL7BC3L');
 <div class='button__content'>
 </button>
 </div>
-<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://pafiibukotabandung.org/" class="link vc-header-logo__wrapper link--1 link--default">
+<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://asia88-jakarta.github.io/" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
  <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://pafiibukotabandung.org/">
-                                        <img alt="KERA4D" src="https://ik.imagekit.io/hosterin/logo-Kadobet.png?updatedAt=1748328865050" style="height:40px; width:215px; display: flex; justify-content: flex-start;margin-left: -60px;">
+                                    <a href="https://asia88-jakarta.github.io/">
+                                        <img alt="Asia88" src="https://ik.imagekit.io/hosterin/logo-Kadobet.png?updatedAt=1748328865050" style="height:40px; width:215px; display: flex; justify-content: flex-start;margin-left: -60px;">
                                     </a>
 </div>
 </span>
@@ -497,14 +497,14 @@ ga('require', 'GTM-KL7BC3L');
 </div>
 <div class='vc-header__search-container'>
 <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://pafiibukotabandung.org/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
+<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://asia88-jakarta.github.io/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
 <div class='m-header__search-field-container'>
 <div class='m-header__search-field-placeholder-wrapper' data-navigation--header-target='placeholderWrapper'>
 <div class='m-header__search-field-placeholder'>
-<p>SELAMAT DATANG DI SITUS RESMI KERA4D</p>
-<p>KERA4D LAYANAN SITUS TERBAIK</p>
-<p>KERA4D LAYANAN LIVE CHAT PROFESIONAL</p>
-<p>KETIK DI GOOGLE 'KERA4D'</p>
+<p>SELAMAT DATANG DI SITUS RESMI Asia88</p>
+<p>Asia88 LAYANAN SITUS TERBAIK</p>
+<p>Asia88 LAYANAN LIVE CHAT PROFESIONAL</p>
+<p>KETIK DI GOOGLE 'Asia88'</p>
 </div>
 </div>
 <input type="text" name="query" id="jsAutoCompleteHeader" class="form__control m-header__search-field jsHeadSearchField gtmSearchHeaderQuery" data-searchUrl="/search/autocomplete" data-trendingSearchResults="[{&quot;result&quot;:&quot;kpop demon hunters&quot;,&quot;score&quot;:38.23},{&quot;result&quot;:&quot;weird twitter&quot;,&quot;score&quot;:18.57},{&quot;result&quot;:&quot;eagles football&quot;,&quot;score&quot;:17.06},{&quot;result&quot;:&quot;detroit lions&quot;,&quot;score&quot;:16.81},{&quot;result&quot;:&quot;i offended you&quot;,&quot;score&quot;:16.45},{&quot;result&quot;:&quot;i run a tight shipwreck&quot;,&quot;score&quot;:7.38},{&quot;result&quot;:&quot;bad bunny&quot;,&quot;score&quot;:7.13},{&quot;result&quot;:&quot;jane goodall&quot;,&quot;score&quot;:6.8},{&quot;result&quot;:&quot;bad knees&quot;,&quot;score&quot;:6.16},{&quot;result&quot;:&quot;kindness is punk&quot;,&quot;score&quot;:5.91},{&quot;result&quot;:&quot;aunt tifa&quot;,&quot;score&quot;:5.86},{&quot;result&quot;:&quot;steelers football&quot;,&quot;score&quot;:5.7},{&quot;result&quot;:&quot;eyepatch rev&quot;,&quot;score&quot;:4.9},{&quot;result&quot;:&quot;eagles&quot;,&quot;score&quot;:4.41},{&quot;result&quot;:&quot;jaxson dart&quot;,&quot;score&quot;:4.02},{&quot;result&quot;:&quot;buffalo bills&quot;,&quot;score&quot;:3.94},{&quot;result&quot;:&quot;dungeon crawler carl&quot;,&quot;score&quot;:3.89},{&quot;result&quot;:&quot;doctor who&quot;,&quot;score&quot;:3.87},{&quot;result&quot;:&quot;government shutdown&quot;,&quot;score&quot;:3.61},{&quot;result&quot;:&quot;ankylosaurus&quot;,&quot;score&quot;:3.51},{&quot;result&quot;:&quot;chicago bears&quot;,&quot;score&quot;:3.34},{&quot;result&quot;:&quot;crucial catch&quot;,&quot;score&quot;:2.9},{&quot;result&quot;:&quot;sumud flotilla&quot;,&quot;score&quot;:2.82},{&quot;result&quot;:&quot;funny hardhat&quot;,&quot;score&quot;:2.29},{&quot;result&quot;:&quot;haunted by 67&quot;,&quot;score&quot;:2.21},{&quot;result&quot;:&quot;ozzy osbourne&quot;,&quot;score&quot;:2.2},{&quot;result&quot;:&quot;buffalo bills football team&quot;,&quot;score&quot;:2.13},{&quot;result&quot;:&quot;i am aunt tifa&quot;,&quot;score&quot;:2.04},{&quot;result&quot;:&quot;the river city&quot;,&quot;score&quot;:2.0},{&quot;result&quot;:&quot;super mario&quot;,&quot;score&quot;:1.99},{&quot;result&quot;:&quot;rocky horror&quot;,&quot;score&quot;:1.99},{&quot;result&quot;:&quot;halloween 3&quot;,&quot;score&quot;:1.82},{&quot;result&quot;:&quot;michael jordan&quot;,&quot;score&quot;:1.81},{&quot;result&quot;:&quot;creepshow&quot;,&quot;score&quot;:1.81},{&quot;result&quot;:&quot;scott hall&quot;,&quot;score&quot;:1.8},{&quot;result&quot;:&quot;boston celtics&quot;,&quot;score&quot;:1.79},{&quot;result&quot;:&quot;3i atlas&quot;,&quot;score&quot;:1.77},{&quot;result&quot;:&quot;same shit different&quot;,&quot;score&quot;:1.7},{&quot;result&quot;:&quot;chinga la migra&quot;,&quot;score&quot;:1.62},{&quot;result&quot;:&quot;radical left&quot;,&quot;score&quot;:1.61},{&quot;result&quot;:&quot;digimon&quot;,&quot;score&quot;:1.6},{&quot;result&quot;:&quot;halloween cat&quot;,&quot;score&quot;:1.6},{&quot;result&quot;:&quot;tropic thunder&quot;,&quot;score&quot;:1.42},{&quot;result&quot;:&quot;no kings anti trump&quot;,&quot;score&quot;:1.41},{&quot;result&quot;:&quot;no concert today&quot;,&quot;score&quot;:1.41},{&quot;result&quot;:&quot;the life of a showgirl&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;seven samurai&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;do not harm authenticc since mmxx take&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;acdc&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;ohio state buckeyes&quot;,&quot;score&quot;:1.4},{&quot;result&quot;:&quot;borderlands&quot;,&quot;score&quot;:1.39},{&quot;result&quot;:&quot;star trek&quot;,&quot;score&quot;:1.37},{&quot;result&quot;:&quot;80s movies&quot;,&quot;score&quot;:1.29},{&quot;result&quot;:&quot;max verstappen&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;robocop&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;siempre antifascista&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;pelosi funny&quot;,&quot;score&quot;:1.21},{&quot;result&quot;:&quot;pete rose&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;macho man fred savage&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;youngboy masa&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;dirty dancing&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;las vegas aces&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;syracuse&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;war games&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;johnny cash&quot;,&quot;score&quot;:1.2},{&quot;result&quot;:&quot;surfing&quot;,&quot;score&quot;:1.19},{&quot;result&quot;:&quot;steelers ireland&quot;,&quot;score&quot;:1.19},{&quot;result&quot;:&quot;iron man&quot;,&quot;score&quot;:1.19},{&quot;result&quot;:&quot;attack on titan&quot;,&quot;score&quot;:1.18},{&quot;result&quot;:&quot;michael myers&quot;,&quot;score&quot;:1.13},{&quot;result&quot;:&quot;resident evil&quot;,&quot;score&quot;:1.1},{&quot;result&quot;:&quot;wait what&quot;,&quot;score&quot;:1.05},{&quot;result&quot;:&quot;wkrp in cincinnati&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;dodgers baseball&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;cartoon network&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;blue velvwt&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;tombstone&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;can i lick it&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;contra&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;george kittle&quot;,&quot;score&quot;:1.01},{&quot;result&quot;:&quot;rick and morty&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;knicks basketball&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;blondie band&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;cyberpunk edgerunners&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;drake rapper&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;benito bowl&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;battlefront 2&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;chad powers&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;slapshot&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;book lovers&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;modest mouse&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;new balance&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;sunami&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;youngboy&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;rock climbing&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;beanie&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;halloweentown est 1998&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;dnd warlock&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;definitely not a cop&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;i love fall most of all&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;renathornton&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;retro philadelphia phillies&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;no problemo&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;weed&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;school bus driver&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;chinga tu maga&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;nj devils&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;sci fi&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;possum&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;replacements band&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;spite&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;political protest&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;scream&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;dad&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;red bull&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;80s tv&quot;,&quot;score&quot;:1.0},{&quot;result&quot;:&quot;pabst blue ribbon&quot;,&quot;score&quot;:0.99},{&quot;result&quot;:&quot;pittsburgh steelers&quot;,&quot;score&quot;:0.93},{&quot;result&quot;:&quot;cleveland browns&quot;,&quot;score&quot;:0.9},{&quot;result&quot;:&quot;eyepatch reveille&quot;,&quot;score&quot;:0.85},{&quot;result&quot;:&quot;rams football&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;engineer&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;road house&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;pigeon&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;lock em up&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;patsymahon&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;jesus meme&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;darmok and jalad&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;enemy within&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;unreliable narrator&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;miller high life&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;bernie parent - philadelphia blazers&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;black keys&quot;,&quot;score&quot;:0.81},{&quot;result&quot;:&quot;rhino&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;gibson guitar&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;disney land&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;oddworld&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;mike mussina in baltimore orioles&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dressed to impress roblox&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ryan bingham&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;emmet otter&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;zildjian cymbals&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;no you hang up&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;luigi&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ace ventura&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;tyler thecreator&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;berserk anime&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;grandpa&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;the growlers&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;the warning&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;care bear&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;protect ya neck&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;poison&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;jason&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;fernando valenzuela&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;pulseretail&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;show business&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;trailer park&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;terry mclaurin washington scary terry&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;liliaamer1&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;9/11&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;rey mysterio&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;demon slayer inosuke&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ally&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;german shepherd&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;game of thrones&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;lebron&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dance&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;returns and refund&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;glacier national park montana&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;investor&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;miller lite&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;casper&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;terry funk&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;big boy&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;ny yankees&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;super furry animals&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;one lonely beastie i be&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dismember band&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;bluey lions&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;revenge of the ninja&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;silence ofthe lambs dog&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;dia de los muertos sugar skull&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;don&#39;t tell mom the babysitter&#39;s dead&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;siouxie and banshees&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;fraggle rock  long sleeved&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;halloween characters&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;river city&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;retro kansas city football vintage chiefs est 1960&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;the life of an eldest daughter&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;manual transmission&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;pete rose vintage&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;light yellow tshirt with green lini g&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;international harvester&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;black cats&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;wonder twins&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;volbeat band&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;smiley&quot;,&quot;score&quot;:0.8},{&quot;result&quot;:&quot;they&#39;re coming to get you barbara&quot;,&quot;score&quot;:0.8}]" data-maxresults="6" data-animated="true" data-navigation--header-target="searchField" data-search-history="true" data-search-history-ca-show-notice="false" data-search-history-clear="<span class=&quot;teepublicon teepublicon--color-orange-400 teepublicon-background--transparent&quot;><svg xmlns=&quot;https://www.w3.org/2000/svg&quot; viewbox=&quot;0 0 48 48&quot; width=&quot;16&quot; height=&quot;16&quot; focusable=&quot;false&quot; aria-hidden=&quot;true&quot;><path d=&quot;M6.88 36.879a3 3 0 1 0 4.242 4.242L24 28.243 36.879 41.12a3 3 0 1 0 4.243-4.242L28.243 24l12.879-12.879a3 3 0 1 0-4.243-4.242L24.001 19.757 11.12 6.88a3 3 0 1 0-4.24 4.24L19.758 24 6.879 36.879Z&quot;></path></svg></span>" data-search-history-clock="<span class=&quot;teepublicon teepublicon--color-orange-400 teepublicon-background--transparent&quot;><svg viewbox=&quot;0 0 48 48&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; width=&quot;16&quot; height=&quot;16&quot; focusable=&quot;false&quot; aria-hidden=&quot;true&quot;>
@@ -585,51 +585,51 @@ Shop All Designs
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://pafiibukotabandung.org/" title="Halloween T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://asia88-jakarta.github.io/" title="Halloween T-Shirts" href="https://asia88-jakarta.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-KERA4D 
+Asia88 
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://pafiibukotabandung.org/" title="Music T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://asia88-jakarta.github.io/" title="Music T-Shirts" href="https://asia88-jakarta.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-SITUS KERA4D
+SITUS Asia88
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://pafiibukotabandung.org/" title="Sport T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://asia88-jakarta.github.io/" title="Sport T-Shirts" href="https://asia88-jakarta.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-KERA4D DAFTAR 
+Asia88 DAFTAR 
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://pafiibukotabandung.org/" title="Movie T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://asia88-jakarta.github.io/" title="Movie T-Shirts" href="https://asia88-jakarta.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-KERA4D EDUKASI
+Asia88 EDUKASI
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://pafiibukotabandung.org/" title="Vintage T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://asia88-jakarta.github.io/" title="Vintage T-Shirts" href="https://asia88-jakarta.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-KERA4D LAYANAN 
+Asia88 LAYANAN 
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://pafiibukotabandung.org/" title="Animal T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://asia88-jakarta.github.io/" title="Animal T-Shirts" href="https://asia88-jakarta.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-KERA4D TERBARU
+Asia88 TERBARU
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://pafiibukotabandung.org/" title="Television T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Television" data-href="https://asia88-jakarta.github.io/" title="Television T-Shirts" href="https://asia88-jakarta.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-KERA4D RESMI
+Asia88 RESMI
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://pafiibukotabandung.org/" title="Funny T-Shirts" href="https://pafiibukotabandung.org/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Funny" data-href="https://asia88-jakarta.github.io/" title="Funny T-Shirts" href="https://asia88-jakarta.github.io/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" loading="auto" height="40" width="40" aria_hidden="true" focusable="false"></span>
 <span class='link__content'>
-KERA4D GACOR
+Asia88 GACOR
 </span>
 </a></div>
 </div>
@@ -719,7 +719,7 @@ Please enable Javascript and return here.
   "name":        "Asia88 ⚡ Perang Lawan Ikan Sapu-Sapu di Kali Cideng Jakarta 2026",
   "description": "Asia88 Perang melawan ikan sapu-sapu di Kali Cideng, Jakarta Pusat semakin gencar. Pemprov DKI bersama 100 petugas tangkap puluhan ekor ikan invasif di depan Plaza Indonesia. Simak kronologi, alasan bahaya, dan rencana Pramono Anung basmi secara masif.",
   "category":    "T-Shirt",
-  "url":         "https://pafiibukotabandung.org/",
+  "url":         "https://asia88-jakarta.github.io/",
   "sku":         "15618785B5F25G95A1M",
   "image":       {
                     "@type": "ImageObject",
@@ -768,23 +768,23 @@ Please enable Javascript and return here.
       "name": "3. Apakah permainan di Kera4d cocok untuk pemain baru?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "KERA4D mencakup asesmen kebutuhan, koordinasi perawatan, pendampingan keluarga, dan pengawasan kesejahteraan Gamers."
+        "text": "Asia88 mencakup asesmen kebutuhan, koordinasi perawatan, pendampingan keluarga, dan pengawasan kesejahteraan Gamers."
       }
     },
     {
       "@type": "Question",
-      "name": "4. Siapa yang membutuhkan layanan KERA4D?",
+      "name": "4. Siapa yang membutuhkan layanan Asia88?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "KERA4D cocok bagi Gamers dan keluarga yang membutuhkan dukungan profesional untuk perawatan jangka panjang di rumah."
+        "text": "Asia88 cocok bagi Gamers dan keluarga yang membutuhkan dukungan profesional untuk perawatan jangka panjang di rumah."
       }
     },
     {
       "@type": "Question",
-      "name": "5. Apa keunggulan utama KERA4D?",
+      "name": "5. Apa keunggulan utama Asia88?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "KERA4D mengutamakan pendekatan personal, profesionalisme tinggi, dan fokus pada kemandirian Gamers."
+        "text": "Asia88 mengutamakan pendekatan personal, profesionalisme tinggi, dan fokus pada kemandirian Gamers."
       }
     }
   ]
@@ -796,45 +796,45 @@ Please enable Javascript and return here.
   "@graph": [
     {
       "@type": "BreadcrumbList",
-      "@id": "https://pafiibukotabandung.org/",
+      "@id": "https://asia88-jakarta.github.io/",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "KERA4D",
-          "item": "https://pafiibukotabandung.org/"
+          "name": "Asia88",
+          "item": "https://asia88-jakarta.github.io/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "SITUS KERA4D",
-          "item": "https://pafiibukotabandung.org/"
+          "name": "SITUS Asia88",
+          "item": "https://asia88-jakarta.github.io/"
         },
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "KERA4D DAFTAR RESEP"
+          "name": "Asia88 DAFTAR RESEP"
         }
       ]
     },
     {
       "@type": "Product",
-      "@id": "https://pafiibukotabandung.org/",
+      "@id": "https://asia88-jakarta.github.io/",
       "name": "Asia88 ⚡ Perang Lawan Ikan Sapu-Sapu di Kali Cideng Jakarta 2026",
       "description": "Asia88 Perang melawan ikan sapu-sapu di Kali Cideng, Jakarta Pusat semakin gencar. Pemprov DKI bersama 100 petugas tangkap puluhan ekor ikan invasif di depan Plaza Indonesia. Simak kronologi, alasan bahaya, dan rencana Pramono Anung basmi secara masif.",
-      "sku": "KERA4D",
+      "sku": "Asia88",
       "brand": {
         "@type": "Brand",
-        "name": "KERA4D"
+        "name": "Asia88"
       },
       "image": [
         "https://ik.imagekit.io/hosterin/kelas.png",
         "https://ik.imagekit.io/hosterin/kelas.png"
       ],
-      "category": "KERA4D < SITUS < Asia88 ⚡ Perang Lawan Ikan Sapu-Sapu di Kali Cideng Jakarta 2026",
+      "category": "Asia88 < SITUS < Asia88 ⚡ Perang Lawan Ikan Sapu-Sapu di Kali Cideng Jakarta 2026",
       "offers": {
         "@type": "Offer",
-        "url": "https://pafiibukotabandung.org/",
+        "url": "https://asia88-jakarta.github.io/",
         "priceCurrency": "USD",
         "price": "10.00",
         "availability": "https://schema.org/InStock",
@@ -967,11 +967,11 @@ Back
 </div>
 <div class='m-design__options' data-controller='rudderstack--checkout-clicked rudderstack--link-clicked' data-rudderstack--checkout-clicked-cart-id-value='9a8c68d58aaa0c110ea9655af8a790a4' data-rudderstack--checkout-clicked-currency-code-value='USD' data-rudderstack--checkout-clicked-discount-usd-value='0.0' data-rudderstack--checkout-clicked-location-value='pdp' data-rudderstack--checkout-clicked-on-sale-savings-usd-value='0.0' data-rudderstack--checkout-clicked-product-revenue-usd-value='0.0' data-rudderstack--checkout-clicked-products-value='[]' data-rudderstack--checkout-clicked-request-action-value='show' data-rudderstack--checkout-clicked-request-controller-value='product_pages' data-rudderstack--link-clicked-location-value='pdp'>
 <div class='m-design__cart-config'>
-<form action='https://pafiibukotabandung.org/' class='m-cart-config jsConfigOptions jsConfigForm' method='POST'>
+<form action='https://asia88-jakarta.github.io/' class='m-cart-config jsConfigOptions jsConfigForm' method='POST'>
 <div class='m-cart-config__option m-cart-config__option--color jsCartConfigColorOption' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='color' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <p class='m-cart-config__color-label'>
 <strong></strong>
-<span class='m-cart-config__color-name jsConfigColorName'>KERA4D memberikan kenyamanan maksimal bagi para pengguna.</span>
+<span class='m-cart-config__color-name jsConfigColorName'>Asia88 memberikan kenyamanan maksimal bagi para pengguna.</span>
 </p>
 <div class='m-cart-config__colors2 jsCartConfigColors jsHorizontalScroll' role='radiogroup'>
 </div>
@@ -1014,7 +1014,7 @@ Back
 </style>
 </div>
 </div>
-<p class='m-design-details__description-text' data-utilities--read-more-target='content'><a href="https://pafiibukotabandung.org/">KERA4D</a>⚡Perang Lawan Ikan Sapu-Sapu di Kali Cideng Jakarta 2026 menjadi sorotan utama masyarakat ibu kota sebagai kampanye lingkungan terbesar tahun ini. Inisiatif yang diusung oleh Asia88 ini mengajak ribuan warga Jakarta untuk ikut serta dalam aksi massal membersihkan Kali Cideng dari serbuan ikan sapu-sapu invasif yang telah merusak ekosistem sungai sejak bertahun-tahun lalu.
+<p class='m-design-details__description-text' data-utilities--read-more-target='content'><a href="https://asia88-jakarta.github.io/">Asia88</a>⚡Perang Lawan Ikan Sapu-Sapu di Kali Cideng Jakarta 2026 menjadi sorotan utama masyarakat ibu kota sebagai kampanye lingkungan terbesar tahun ini. Inisiatif yang diusung oleh Asia88 ini mengajak ribuan warga Jakarta untuk ikut serta dalam aksi massal membersihkan Kali Cideng dari serbuan ikan sapu-sapu invasif yang telah merusak ekosistem sungai sejak bertahun-tahun lalu.
 </p>
 <br>
 <p class='m-design-details__description-text' data-utilities--read-more-target='content'>Melalui Kera4d  , Perang Lawan Ikan Sapu-Sapu di Kali Cideng Jakarta 2026 menjadi sorotan utama masyarakat ibu kota sebagai kampanye lingkungan terbesar tahun ini. Inisiatif yang diusung oleh Asia88 ini mengajak ribuan warga Jakarta untuk ikut serta dalam aksi massal membersihkan Kali Cideng dari serbuan ikan sapu-sapu invasif yang telah merusak ekosistem sungai sejak bertahun-tahun lalu.  </p>
@@ -1097,7 +1097,7 @@ Back
   border-bottom: 1px solid rgba(255,255,255,0.1);
   color: #ffcc64;
 ">
-  <span class="grad-text">FAQ KERA4D LAYANAN TERPERCAYA</span>
+  <span class="grad-text">FAQ Asia88 LAYANAN TERPERCAYA</span>
 </div>
 
 <div style="padding: 10px 0;">
@@ -1160,7 +1160,7 @@ Back
   font-size: 13px;
   color:#ccc;
 ">
-  &copy;2026 KERA4D
+  &copy;2026 Asia88
 </div>
 
 </div>
@@ -1234,14 +1234,14 @@ document.querySelectorAll('.faq-question').forEach(button => {
     background: linear-gradient(135deg, rgb(202 133 6), rgb(202 133 6));
     border-bottom: 1px solid rgba(255,255,255,0.15);
   ">
-    <span class="grad-text">INFORMASI TENTANG KERA4D</span>
+    <span class="grad-text">INFORMASI TENTANG Asia88</span>
   </div>
 
   <!-- TABLE -->
   <table class="table-hover" style="width:100%; border-collapse:collapse;">
     <tr>
       <td style="padding:14px 18px; border-right:1px solid rgba(255, 0, 0, 0.14);">Nama Situs</td>
-      <td style="padding:14px 18px;" class="grad-text">KERA4D</td>
+      <td style="padding:14px 18px;" class="grad-text">Asia88</td>
     </tr>
 
     <tr>
@@ -1288,7 +1288,7 @@ document.querySelectorAll('.faq-question').forEach(button => {
     border-top: 1px solid rgba(255,255,255,0.14);
     background: linear-gradient(135deg, #161300, #2b2700);
   ">
-    &copy;2026 KERA4D
+    &copy;2026 Asia88
   </div>
 
 </div>
@@ -1303,7 +1303,7 @@ document.querySelectorAll('.faq-question').forEach(button => {
 <div class="tp-text-note cqd-banner__banner tp-text-note--information tp-text-note--on-light"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent tp-text-note--icon"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="24" height="24" focusable="false" aria-hidden="true"><path d="M28.595 5.507c-.198-1.463-1.789-2.005-2.847-.976-2.148 2.09-5.57 5.816-9.26 11.392-3.87 5.85-5.614 9.665-6.377 11.688-.372.988.222 1.917 1.273 2.005 1.357.113 3.646.222 7.416.222h.023c-.015.711-.024 1.458-.024 2.242 0 4.794.308 8.222.606 10.416.198 1.463 1.788 2.005 2.847.976 2.148-2.089 5.57-5.816 9.259-11.392 3.87-5.85 5.615-9.665 6.377-11.688.372-.988-.221-1.917-1.273-2.004-1.357-.113-3.645-.223-7.415-.223h-.023c.015-.711.024-1.458.024-2.242 0-4.794-.308-8.222-.606-10.416Z"></path></svg></span>
 <div class='tp-text-note__body'>
 <p class='tp-text-note__text'>
-Selamat datang di KERA4D Akses Resmi Google Update Terbaru Tanpa Gangguan Server Indonesia
+Selamat datang di Asia88 Akses Resmi Google Update Terbaru Tanpa Gangguan Server Indonesia
 </p>
 </div></div>
 <div class='m-design__tip-container jsProductTips'>
@@ -1429,16 +1429,16 @@ Selamat datang di KERA4D Akses Resmi Google Update Terbaru Tanpa Gangguan Server
 
       <!-- KOLOM KIRI -->
       <div class="mw-left m-design-product-info--product-quality">
-        <h4>PROFIL KERA4D</h4>
+        <h4>PROFIL Asia88</h4>
         <p>Asia88 Perang melawan ikan sapu-sapu di Kali Cideng, Jakarta Pusat semakin gencar. Pemprov DKI bersama 100 petugas tangkap puluhan ekor ikan invasif di depan Plaza Indonesia. Simak kronologi, alasan bahaya, dan rencana Pramono Anung basmi secara masif.
         </p>
 
-<!-- 🎰 GENERATOR ANGKA KERA4D EDUKASI -->
+<!-- 🎰 GENERATOR ANGKA Asia88 EDUKASI -->
 <!-- ========================== -->
 
 <div class="generator-container">
   <div class="machine">
-    <h2>KERA4D UNDIAN BERHADIAH</h2>
+    <h2>Asia88 UNDIAN BERHADIAH</h2>
 
     <div class="display" id="display">
       <div class="ball">0</div>
@@ -1690,7 +1690,7 @@ Selamat datang di KERA4D Akses Resmi Google Update Terbaru Tanpa Gangguan Server
       <div class="mw-right">
         <div class="mw-review-box">
 
-          <div class="mw-review-title">REVIEW MEMBERSHIP KERA4D</div>
+          <div class="mw-review-title">REVIEW MEMBERSHIP Asia88</div>
 
           <div class="review-card">
             <div class="review-avatar">AS</div>
@@ -1722,7 +1722,7 @@ Selamat datang di KERA4D Akses Resmi Google Update Terbaru Tanpa Gangguan Server
             </div>
           </div>
 
-          <div class="mw-footer">&copy;2026 KERA4D</div>
+          <div class="mw-footer">&copy;2026 Asia88</div>
 
         </div>
       </div>
@@ -1745,81 +1745,81 @@ Selamat datang di KERA4D Akses Resmi Google Update Terbaru Tanpa Gangguan Server
 <div class='m-design__additional-info' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='related_tags_trending_tags'>
 <h4 class='h h--6 m-design__subtitles'>Trending Tags</h4>
 <nav class='m-design__additional-info-list'>
-<div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim"><a href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default">
+<div class="m-search__related-results container__scrollable container__scrollable--wrap container__scrollable--slim"><a href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-KERA4D
+Asia88
 </span>
 
 </a>
-<a href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
 DESA 4D
 </span>
 
 </a>
-<a href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-KERA4D LOGIN
+Asia88 LOGIN
 </span>
 
 </a>
-<a href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-KERA4D DAFTAR
+Asia88 DAFTAR
 </span>
 
 </a>
-<a href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-KERA4D LINK ALTERNATIF
+Asia88 LINK ALTERNATIF
 </span>
 
 </a>
-<a href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-KERA4D RESMI
+Asia88 RESMI
 </span>
 
 </a>
-<a href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-KERA4D TERPERCAYA</span>
+Asia88 TERPERCAYA</span>
 
 </a>
-<a href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-KERA4D ALTERNATIF
+Asia88 ALTERNATIF
 </span>
 </a>
 
-<a href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-KERA4D LIVECHAT
+Asia88 LIVECHAT
 </span>
 </a>
   
-<a href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-KERA4D SLOT
+Asia88 SLOT
 </span>
 </a>
   
-<a href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-SLOT KERA4D
+SLOT Asia88
 </span>
 </a>
   
 
-<a href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-KERA4D TERBAIK
+Asia88 TERBAIK
 </span>
 </a>
 
-<a href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default">
+<a href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default">
 <span class='link__content'>
-KERA4D HARI INI
+Asia88 HARI INI
 </span>
 </a>
 
@@ -1838,7 +1838,7 @@ Share this design:
 <div class='jsSocial'>
 <ul class='m-social-share'>
 <li>
-<a aria-label="Share to Twitter" onclick="window.open; return false" href="https://pafiibukotabandung.org/" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
+<a aria-label="Share to Twitter" onclick="window.open; return false" href="https://asia88-jakarta.github.io/" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/twitter_x-e7ec227c1ad2634b8096bcccb765eddf5be0612af99dc39f81589c7440f53741.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1846,7 +1846,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Facebook" onclick="window.open; return false" href="https://pafiibukotabandung.org/" class="link gtmFbProductShare facebook link--1 link--default">
+<a aria-label="Share to Facebook" onclick="window.open; return false" href="https://asia88-jakarta.github.io/" class="link gtmFbProductShare facebook link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/facebook-782a69eed8f8c44472034fa1a149c795915e716c13a0c9499e024cb5d43f3ba5.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1854,7 +1854,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Linktree" target="_blank" href="https://pafiibukotabandung.org/" class="link gtmLinktreeProductShare linktree link--1 link--default">
+<a aria-label="Share to Linktree" target="_blank" href="https://asia88-jakarta.github.io/" class="link gtmLinktreeProductShare linktree link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/linktree-77e016868e593884b6412143a45aad6268f47dc11dede4fe3dfec967af8379c7.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1862,7 +1862,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Save to Pinterest" onclick="window.open; return false" href="https://pafiibukotabandung.org/" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
+<a aria-label="Save to Pinterest" onclick="window.open; return false" href="https://asia88-jakarta.github.io/" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/pinterest-bf44b194464a76e11f21f63eedb266534dafbdd4d28f646eb1f731f0737f1d27.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1870,7 +1870,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Reddit" target="_blank" href="https://pafiibukotabandung.org/" class="link gtmRedditProductShare reddit link--1 link--default">
+<a aria-label="Share to Reddit" target="_blank" href="https://asia88-jakarta.github.io/" class="link gtmRedditProductShare reddit link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/reddit-a08812dd6e957c987946f6fa3808df6dada5b1f95e538017767af02adfda49b8.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1878,7 +1878,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Tumblr" target="_blank" href="https://pafiibukotabandung.org/" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
+<a aria-label="Share to Tumblr" target="_blank" href="https://asia88-jakarta.github.io/" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/tumblr-72746366fce360d1a23b94973d204278af451141b23aebe1dd3671bfff083f2a.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1930,7 +1930,7 @@ Share this design:
 <figure class='m-footer__guarantee-image'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
   <img src="https://ik.imagekit.io/hosterin/kelas.png" 
-       alt="KERA4D" 
+       alt="Asia88" 
        style="width:50%; height:auto; max-width:500px; display:block; margin:0 auto;" />
 </span>
 </figure>
@@ -1944,9 +1944,9 @@ Don't love it? We'll fix it. For free.
 </p>
 </div>
 <p class='m-footer__guarantee-link'>
-<a target="_blank" href="https://pafiibukotabandung.org/" class="link link__cta link__cta--on-dark link--default">
+<a target="_blank" href="https://asia88-jakarta.github.io/" class="link link__cta link__cta--on-dark link--default">
 <span class='link__content'>
-KERA4D
+Asia88
 </span>
 
 </a>
@@ -1968,25 +1968,25 @@ Contact Us
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Coupon Codes" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Coupon Codes
 </span>
 
 </a>
-<a data-gtm-footer-link-text="FAQ" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="FAQ" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 FAQ
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Free Shipping" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Free Shipping" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Free Shipping
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Refunds &amp; Returns" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Refunds &amp; Returns
 </span>
@@ -2013,38 +2013,38 @@ About Us
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Accessibility" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Accessibility" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Accessibility
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Create a Dashery Store" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Create a Dashery Store
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Careers" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Careers" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Careers
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Hire an Artist" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Hire an Artist
 </span>
 
 </a>
 
-<a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Social Responsibility" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Social Responsibility
 </span>
 
 </a>
-<a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="TeePublic Reviews" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 TeePublic Reviews
 </span>
@@ -2053,37 +2053,37 @@ TeePublic Reviews
 
 </div></div></div><div class="link-collection m-foot__links-section"><div class="link-collection__body"><h4 class="h__h4 link-collection__header h--no-s">Explore</h4>
 
-<div class="link-collection__content"><a data-gtm-footer-link-text="All Designs" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<div class="link-collection__content"><a data-gtm-footer-link-text="All Designs" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 All Designs
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Content Directory" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Content Directory" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Content Directory
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Featured Designers" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Featured Designers" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Featured Artists
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Newest Designers" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Newest Designers
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Newest T-Shirts" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Newest T-Shirts" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Newest T-Shirts
 </span>
 
 </a>
-<a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="Tag Directory" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Tag Directory
 </span>
@@ -2092,7 +2092,7 @@ Tag Directory
 
 </div></div></div><div class="link-collection m-foot__links-section"><div class="link-collection__body"><h4 class="h__h4 link-collection__header h--no-s">Artists</h4>
 
-<div class="link-collection__content"><a data-gtm-footer-link-text="Create" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<div class="link-collection__content"><a data-gtm-footer-link-text="Create" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 Artist Signup
 </span>
@@ -2106,7 +2106,7 @@ Design Guide
 </a>
 
 
-<a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: " href="https://pafiibukotabandung.org/" class="link gtmFooterLink link-collection__link link--1 link--default">
+<a data-gtm-footer-link-text="TeePublic Blog" style="--animation-order: " href="https://asia88-jakarta.github.io/" class="link gtmFooterLink link-collection__link link--1 link--default">
 <span class='link__content'>
 TeePublic Blog
 </span>
@@ -2209,7 +2209,7 @@ United States - $ USD
 </button></div>
 </div>
 <div class='m-footer__legal-bar-subnav'>
-<a data-gtm-footer-link-text="Copyright Policy" rel="nofollow" target="_blank" href="https://pafiibukotabandung.org/en-us/articles/29890745668631-General-Product-Safety-Regulation-GSPR" class="link m-footer__legal-bar-subnav-link gtmFooterLink">
+<a data-gtm-footer-link-text="Copyright Policy" rel="nofollow" target="_blank" href="https://asia88-jakarta.github.io/en-us/articles/29890745668631-General-Product-Safety-Regulation-GSPR" class="link m-footer__legal-bar-subnav-link gtmFooterLink">
 <span class='link__content'>
 Product Safety
 </span>
@@ -2347,7 +2347,7 @@ Away from
 <h4>Your Cart is empty...</h4>
 <p>Discover something you'll love!</p>
 <div class='m-tray-cart__body-links'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://pafiibukotabandung.org/" href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://asia88-jakarta.github.io/" href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 animals
 
@@ -2377,13 +2377,13 @@ food
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://pafiibukotabandung.org/" href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://asia88-jakarta.github.io/" href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 funny
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://pafiibukotabandung.org/" href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://asia88-jakarta.github.io/" href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 movies
 
@@ -2395,19 +2395,19 @@ sci-fi
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://pafiibukotabandung.org/" href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://asia88-jakarta.github.io/" href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 sports
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://pafiibukotabandung.org/" href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://asia88-jakarta.github.io/" href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 television
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://pafiibukotabandung.org/" href="https://pafiibukotabandung.org/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://asia88-jakarta.github.io/" href="https://asia88-jakarta.github.io/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 vintage
 
@@ -2702,7 +2702,7 @@ Back To Menu
   <img class="vc-header-logo__image" 
        src="https://ik.imagekit.io/hosterin/kelas.png"
        style="max-width:150px; height:auto; display:block; margin:0 auto;" 
-       alt="KERA4D">
+       alt="Asia88">
 </picture>
 
 
@@ -2807,13 +2807,13 @@ Back To Menu
 </div>
 <div class="m-tray-shop__popular-topics"><h3>Browse All Topics</h3>
 <div class='m-tray-shop__popular-topics-content'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://pafiibukotabandung.org/" title="Funny" href="https://pafiibukotabandung.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://asia88-jakarta.github.io/" title="Funny" href="https://asia88-jakarta.github.io/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 funny
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://pafiibukotabandung.org/" title="Music" href="https://pafiibukotabandung.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://asia88-jakarta.github.io/" title="Music" href="https://asia88-jakarta.github.io/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 music
 </span>
@@ -2825,19 +2825,19 @@ anime
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://pafiibukotabandung.org/" title="Movies" href="https://pafiibukotabandung.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://asia88-jakarta.github.io/" title="Movies" href="https://asia88-jakarta.github.io/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 movies
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://pafiibukotabandung.org/" title="Television" href="https://pafiibukotabandung.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://asia88-jakarta.github.io/" title="Television" href="https://asia88-jakarta.github.io/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 television
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://pafiibukotabandung.org/" title="Sports" href="https://pafiibukotabandung.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://asia88-jakarta.github.io/" title="Sports" href="https://asia88-jakarta.github.io/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 sports
 </span>
@@ -2849,13 +2849,13 @@ sci-fi
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://pafiibukotabandung.org/" title="Vintage" href="https://pafiibukotabandung.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://asia88-jakarta.github.io/" title="Vintage" href="https://asia88-jakarta.github.io/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 vintage
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://pafiibukotabandung.org/" title="Animals" href="https://pafiibukotabandung.org/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://asia88-jakarta.github.io/" title="Animals" href="https://asia88-jakarta.github.io/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 animals
 </span>
@@ -2897,7 +2897,7 @@ All Popular Designs
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="FAQ" data-href="https://pafiibukotabandung.org/" href="https://pafiibukotabandung.org/" class="link m-tray-shop__support-link link--1 link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="20" height="20" focusable="false" aria-hidden="true"><path d="M42.049 21.297a1.951 1.951 0 0 1 0 3.902H39.95a1.951 1.951 0 0 1 0-3.902h2.098Zm-36.098 0a1.951 1.951 0 0 0 0 3.902H8.05a1.951 1.951 0 0 0 0-3.902h-2.1ZM22 6a2 2 0 1 1 4 0v1.854a2 2 0 1 1-4 0V6Zm-.373 38a2.927 2.927 0 0 1 0-5.854h5.146a2.927 2.927 0 0 1 0 5.854h-5.146ZM35.353 9.89a2.035 2.035 0 0 1 2.829 0 1.918 1.918 0 0 1 0 2.76l-1.414 1.38a2.035 2.035 0 0 1-2.829 0 1.918 1.918 0 0 1 0-2.76l1.414-1.38Zm-22.706 0a2.035 2.035 0 0 0-2.829 0 1.918 1.918 0 0 0 0 2.76l1.414 1.38a2.035 2.035 0 0 0 2.829 0 1.918 1.918 0 0 0 0-2.76l-1.414-1.38ZM30.5 33c0-.352.121-.708.395-.93A10.98 10.98 0 0 0 35 23.5c0-6.075-4.925-11-11-11s-11 4.925-11 11a10.98 10.98 0 0 0 4.105 8.57c.274.222.395.578.395.93a2.5 2.5 0 0 0 2.5 2.5h8a2.5 2.5 0 0 0 2.5-2.5Z"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="FAQ" data-href="https://asia88-jakarta.github.io/" href="https://asia88-jakarta.github.io/" class="link m-tray-shop__support-link link--1 link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="https://www.w3.org/2000/svg" viewbox="0 0 48 48" width="20" height="20" focusable="false" aria-hidden="true"><path d="M42.049 21.297a1.951 1.951 0 0 1 0 3.902H39.95a1.951 1.951 0 0 1 0-3.902h2.098Zm-36.098 0a1.951 1.951 0 0 0 0 3.902H8.05a1.951 1.951 0 0 0 0-3.902h-2.1ZM22 6a2 2 0 1 1 4 0v1.854a2 2 0 1 1-4 0V6Zm-.373 38a2.927 2.927 0 0 1 0-5.854h5.146a2.927 2.927 0 0 1 0 5.854h-5.146ZM35.353 9.89a2.035 2.035 0 0 1 2.829 0 1.918 1.918 0 0 1 0 2.76l-1.414 1.38a2.035 2.035 0 0 1-2.829 0 1.918 1.918 0 0 1 0-2.76l1.414-1.38Zm-22.706 0a2.035 2.035 0 0 0-2.829 0 1.918 1.918 0 0 0 0 2.76l1.414 1.38a2.035 2.035 0 0 0 2.829 0 1.918 1.918 0 0 0 0-2.76l-1.414-1.38ZM30.5 33c0-.352.121-.708.395-.93A10.98 10.98 0 0 0 35 23.5c0-6.075-4.925-11-11-11s-11 4.925-11 11a10.98 10.98 0 0 0 4.105 8.57c.274.222.395.578.395.93a2.5 2.5 0 0 0 2.5 2.5h8a2.5 2.5 0 0 0 2.5-2.5Z"></path></svg></span>
 <span class='link__content'>
 <span>FAQ</span>
 
@@ -3307,8 +3307,8 @@ Shop All Designs
   });
 </script>
 <style>
-    /* === FOOTER KERA4D PANDUANGAMING TEMA KERA4D NEON === */
-    .KERA4D-fixed-footer {
+    /* === FOOTER Asia88 PANDUANGAMING TEMA Asia88 NEON === */
+    .Asia88-fixed-footer {
       position: fixed;
       bottom: 0;
       left: 0;
@@ -3329,7 +3329,7 @@ Shop All Designs
     }
     
     /* === Tombol Footer === */
-    .KERA4D-fixed-footer a {
+    .Asia88-fixed-footer a {
       flex: 1;
       max-width: 90px;
       text-align: center;
@@ -3346,27 +3346,27 @@ Shop All Designs
     }
     
     /* Hover efek */
-    .KERA4D-fixed-footer a:hover {
+    .Asia88-fixed-footer a:hover {
       color: #ffffff;
       transform: translateY(-6px) scale(1.1);
       text-shadow: 0 0 10px rgb(202 133 6), 0 0 15px rgb(202 133 6), 0 0 20px rgb(202 133 6);
     }
     
     /* === Ikon tombol === */
-    .KERA4D-fixed-footer img {
+    .Asia88-fixed-footer img {
       width: 26px;
       height: 26px;
       filter: drop-shadow(0 0 5px rgb(202 133 6));
       transition: transform 0.3s ease, filter 0.3s ease;
     }
     
-    .KERA4D-fixed-footer a:hover img {
+    .Asia88-fixed-footer a:hover img {
       transform: scale(1.25);
       filter: drop-shadow(0 0 10px rgb(202 133 6)) drop-shadow(0 0 10px rgb(202 133 6));
     }
     
     /* === Tombol Tengah (Spesial: Daftar) === */
-    .KERA4D-fixed-footer .tada {
+    .Asia88-fixed-footer .tada {
       background: radial-gradient(circle, rgba(255, 255, 255, 0.2) 0%, transparent 70%);
       border-radius: 50%;
       padding: 8px;
@@ -3393,23 +3393,23 @@ Shop All Designs
     }
     
     /* Klik efek */
-    .KERA4D-fixed-footer a:active {
+    .Asia88-fixed-footer a:active {
       transform: scale(0.95);
       opacity: 0.85;
     }
     
     /* === Responsif untuk layar kecil === */
     @media (max-width: 500px) {
-      .KERA4D-fixed-footer {
+      .Asia88-fixed-footer {
         padding: 8px 0;
         border-radius: 16px 16px 0 0;
       }
     
-      .KERA4D-fixed-footer a {
+      .Asia88-fixed-footer a {
         font-size: 11px;
       }
     
-      .KERA4D-fixed-footer img {
+      .Asia88-fixed-footer img {
         width: 22px;
         height: 22px;
       }
@@ -3418,25 +3418,25 @@ Shop All Designs
     </style>
     
 
-<div class="KERA4D-fixed-footer">
+<div class="Asia88-fixed-footer">
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener">
-    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="BONUS KERA4D">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="BONUS Asia88">
     PROMO
   </a>
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener">
-    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="LOGIN KERA4D">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="LOGIN Asia88">
     LOGIN
   </a>
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener" class="tada">
-    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="DAFTAR KERA4D">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="DAFTAR Asia88">
     DAFTAR
   </a>
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener">
-    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="WHATSAPP KERA4D">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="WHATSAPP Asia88">
     WHATSAPP
   </a>
   <a href="https://ampkadowin.site/" target="_blank" rel="nofollow noopener">
-    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="LIVE CHAT KERA4D">
+    <img src=https://ik.imagekit.io/hosterin/logo%20kado%20kado.png?updatedAt=1745649277901" alt="LIVE CHAT Asia88">
     LIVE CHAT
   </a>
 </div>
@@ -3446,10 +3446,10 @@ Shop All Designs
   style="position: fixed; z-index: 9999; width: 100vw; height: 100vh; top: 0; left: 0; background: #00000088; display: flex; align-items: center; justify-content: center; padding: 16px; box-sizing: border-box; overflow-y: auto;">
   <div style="display: flex; flex-direction: column; align-items: center; width: 100%; max-width: 400px;">
 
-    <!-- Banner KERA4D -->
+    <!-- Banner Asia88 -->
     <img
       src="https://ik.imagekit.io/hosterin/kelas.png"
-      alt="Banner KERA4D"
+      alt="Banner Asia88"
       style="width: 100%; border-radius: 12px; box-shadow: 0 0 12px rgb(250, 250, 250); margin-bottom: 16px;">
 
     <!-- Tombol DAFTAR & LOGIN -->
@@ -3472,7 +3472,7 @@ Shop All Designs
 
     <!-- Footer -->
     <div style="margin-top: 16px; font-size: 12px; color: #f8f7f7;">
-      © Copyright 2026 <span style="color: #faf9f9;">KERA4D</span>
+      © Copyright 2026 <span style="color: #faf9f9;">Asia88</span>
     </div>
 
   </div>
