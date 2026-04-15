@@ -60,7 +60,7 @@
 <meta content='teepublic' name='cloudinary_cloud_name'>
 <meta content='index, follow' name='robots'>
 <meta content='Asia88 Perang melawan ikan sapu-sapu di Kali Cideng, Jakarta Pusat semakin gencar. Pemprov DKI bersama 100 petugas tangkap puluhan ekor ikan invasif di depan Plaza Indonesia. Simak kronologi, alasan bahaya, dan rencana Pramono Anung basmi secara masif.' name='description'>
-<meta content="keyword" name="Kera4d">
+<meta content="keyword" name="Asia88">
 <meta property="og:title" content="Asia88 ⚡ Perang Lawan Ikan Sapu-Sapu di Kali Cideng Jakarta 2026">
 <meta property="og:description" content="Asia88 Perang melawan ikan sapu-sapu di Kali Cideng, Jakarta Pusat semakin gencar. Pemprov DKI bersama 100 petugas tangkap puluhan ekor ikan invasif di depan Plaza Indonesia. Simak kronologi, alasan bahaya, dan rencana Pramono Anung basmi secara masif.">
 <meta property="og:price:amount" content="10.000">
@@ -749,23 +749,23 @@ Please enable Javascript and return here.
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "1. Apa itu Kera4d dan mengapa banyak pemain membicarakannya?",
+      "name": "1. Apa itu Asia88 dan mengapa banyak pemain membicarakannya?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Kera4d merupakan platform hiburan game spin online yang menawarkan berbagai permainan menarik dengan tampilan modern dan sistem yang mudah diakses. Banyak pemain menyukai Kera4d karena konsep permainannya santai dan dapat dimainkan kapan saja."
+        "text": "Asia88 merupakan platform hiburan game spin online yang menawarkan berbagai permainan menarik dengan tampilan modern dan sistem yang mudah diakses. Banyak pemain menyukai Asia88 karena konsep permainannya santai dan dapat dimainkan kapan saja."
       }
     },
     {
       "@type": "Question",
-      "name": "2. Mengapa Kera4d menggunakan konsep “Menang Atau Kalah? Spin Aja Dulu Malam Ini”?",
+      "name": "2. Mengapa Asia88 menggunakan konsep “Menang Atau Kalah? Spin Aja Dulu Malam Ini”?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Konsep tersebut menggambarkan bahwa permainan di Kera4d dirancang untuk memberikan hiburan tanpa tekanan. Pemain dapat menikmati setiap putaran spin dengan santai sambil merasakan sensasi permainan yang seru."
+        "text": "Konsep tersebut menggambarkan bahwa permainan di Asia88 dirancang untuk memberikan hiburan tanpa tekanan. Pemain dapat menikmati setiap putaran spin dengan santai sambil merasakan sensasi permainan yang seru."
       }
     },
     {
       "@type": "Question",
-      "name": "3. Apakah permainan di Kera4d cocok untuk pemain baru?",
+      "name": "3. Apakah permainan di Asia88 cocok untuk pemain baru?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Asia88 mencakup asesmen kebutuhan, koordinasi perawatan, pendampingan keluarga, dan pengawasan kesejahteraan Gamers."
@@ -851,7 +851,7 @@ Please enable Javascript and return here.
           "@type": "Review",
           "author": { "@type": "Person", "name": "Labubu - Jakarta" },
           "datePublished": "2026-02-28",
-          "reviewBody": "Saya sudah mencoba banyak platform game online, tapi Kera4d terasa berbeda. Tampilan permainannya modern dan setiap spin memberikan sensasi yang seru. Yang paling saya suka adalah aksesnya cepat dan mudah digunakan.",
+          "reviewBody": "Saya sudah mencoba banyak platform game online, tapi Asia88 terasa berbeda. Tampilan permainannya modern dan setiap spin memberikan sensasi yang seru. Yang paling saya suka adalah aksesnya cepat dan mudah digunakan.",
           "name": "Labubu - Jakarta",
           "reviewRating": { "@type": "Rating", "ratingValue": "5", "bestRating": "5" }
         },
@@ -859,7 +859,7 @@ Please enable Javascript and return here.
           "@type": "Review",
           "author": { "@type": "Person", "name": "Srey Neang - Poipet" },
           "datePublished": "2026-02-28",
-          "reviewBody": "Pertama kali mencoba Kera4d hanya karena penasaran, tapi ternyata cukup menyenangkan. Pilihan permainan spin yang tersedia juga beragam, jadi tidak cepat bosan saat bermain.",
+          "reviewBody": "Pertama kali mencoba Asia88 hanya karena penasaran, tapi ternyata cukup menyenangkan. Pilihan permainan spin yang tersedia juga beragam, jadi tidak cepat bosan saat bermain.",
           "name": "Srey Neang - Poipet",
           "reviewRating": { "@type": "Rating", "ratingValue": "4.7", "bestRating": "5" }
         }
@@ -1017,7 +1017,7 @@ Back
 <p class='m-design-details__description-text' data-utilities--read-more-target='content'><a href="https://asia88-jakarta.github.io/">Asia88</a>⚡Perang Lawan Ikan Sapu-Sapu di Kali Cideng Jakarta 2026 menjadi sorotan utama masyarakat ibu kota sebagai kampanye lingkungan terbesar tahun ini. Inisiatif yang diusung oleh Asia88 ini mengajak ribuan warga Jakarta untuk ikut serta dalam aksi massal membersihkan Kali Cideng dari serbuan ikan sapu-sapu invasif yang telah merusak ekosistem sungai sejak bertahun-tahun lalu.
 </p>
 <br>
-<p class='m-design-details__description-text' data-utilities--read-more-target='content'>Melalui Kera4d  , Perang Lawan Ikan Sapu-Sapu di Kali Cideng Jakarta 2026 menjadi sorotan utama masyarakat ibu kota sebagai kampanye lingkungan terbesar tahun ini. Inisiatif yang diusung oleh Asia88 ini mengajak ribuan warga Jakarta untuk ikut serta dalam aksi massal membersihkan Kali Cideng dari serbuan ikan sapu-sapu invasif yang telah merusak ekosistem sungai sejak bertahun-tahun lalu.  </p>
+<p class='m-design-details__description-text' data-utilities--read-more-target='content'>Melalui Asia88  , Perang Lawan Ikan Sapu-Sapu di Kali Cideng Jakarta 2026 menjadi sorotan utama masyarakat ibu kota sebagai kampanye lingkungan terbesar tahun ini. Inisiatif yang diusung oleh Asia88 ini mengajak ribuan warga Jakarta untuk ikut serta dalam aksi massal membersihkan Kali Cideng dari serbuan ikan sapu-sapu invasif yang telah merusak ekosistem sungai sejak bertahun-tahun lalu.  </p>
 <br>
 <p class='m-design-details__description-text' data-utilities--read-more-target='content'>Keberhasilan Asia88, Perang Lawan Ikan Sapu-Sapu di Kali Cideng Jakarta 2026 diharapkan menjadi model bagi kota-kota lain di Indonesia dalam mengatasi masalah spesies invasif.</p>
 <br>
@@ -1104,49 +1104,49 @@ Back
 
   <!-- FAQ 1 -->
   <div class="faq-item">
-    <button class="faq-question">1. Apa itu Kera4d dan mengapa banyak pemain membicarakannya?</button>
+    <button class="faq-question">1. Apa itu Asia88 dan mengapa banyak pemain membicarakannya?</button>
     <div class="faq-answer">
-      Kera4d merupakan platform hiburan game spin online yang menawarkan berbagai permainan menarik dengan tampilan modern dan sistem yang mudah diakses. Banyak pemain menyukai Kera4d karena konsep permainannya santai dan dapat dimainkan kapan saja.
+      Asia88 merupakan platform hiburan game spin online yang menawarkan berbagai permainan menarik dengan tampilan modern dan sistem yang mudah diakses. Banyak pemain menyukai Asia88 karena konsep permainannya santai dan dapat dimainkan kapan saja.
     </div>
   </div>
 
   <!-- FAQ 2 -->
   <div class="faq-item">
-    <button class="faq-question">2. Mengapa Kera4d menggunakan konsep “Menang Atau Kalah? Spin Aja Dulu Malam Ini”?</button>
+    <button class="faq-question">2. Mengapa Asia88 menggunakan konsep “Menang Atau Kalah? Spin Aja Dulu Malam Ini”?</button>
     <div class="faq-answer">
-      Konsep tersebut menggambarkan bahwa permainan di Kera4d dirancang untuk memberikan hiburan tanpa tekanan. Pemain dapat menikmati setiap putaran spin dengan santai sambil merasakan sensasi permainan yang seru.
+      Konsep tersebut menggambarkan bahwa permainan di Asia88 dirancang untuk memberikan hiburan tanpa tekanan. Pemain dapat menikmati setiap putaran spin dengan santai sambil merasakan sensasi permainan yang seru.
     </div>
   </div>
 
   <!-- FAQ 3 -->
   <div class="faq-item">
-    <button class="faq-question">3. Apakah permainan di Kera4d cocok untuk pemain baru?</button>
+    <button class="faq-question">3. Apakah permainan di Asia88 cocok untuk pemain baru?</button>
     <div class="faq-answer">
-      Ya, Kera4d dirancang dengan sistem permainan yang sederhana sehingga mudah dipahami oleh pemain baru. Navigasi yang jelas dan tampilan yang ramah pengguna membuat siapa pun bisa mulai bermain dengan mudah.
+      Ya, Asia88 dirancang dengan sistem permainan yang sederhana sehingga mudah dipahami oleh pemain baru. Navigasi yang jelas dan tampilan yang ramah pengguna membuat siapa pun bisa mulai bermain dengan mudah.
     </div>
   </div>
 
   <!-- FAQ 4 -->
   <div class="faq-item">
-    <button class="faq-question">4. Apa saja keunggulan bermain di Kera4d  ?</button>
+    <button class="faq-question">4. Apa saja keunggulan bermain di Asia88  ?</button>
     <div class="faq-answer">
-      Kera4d menawarkan berbagai keunggulan seperti akses permainan yang cepat, tampilan visual menarik, koleksi game spin yang beragam, serta sistem platform yang stabil untuk pengalaman bermain yang nyaman.
+      Asia88 menawarkan berbagai keunggulan seperti akses permainan yang cepat, tampilan visual menarik, koleksi game spin yang beragam, serta sistem platform yang stabil untuk pengalaman bermain yang nyaman.
     </div>
   </div>
 
   <!-- FAQ 5 -->
   <div class="faq-item">
-    <button class="faq-question">5. Bagaimana cara memulai bermain di Kera4d ?</button>
+    <button class="faq-question">5. Bagaimana cara memulai bermain di Asia88 ?</button>
     <div class="faq-answer">
-      Untuk mulai bermain di Kera4d  , pengguna cukup mengunjungi situs resmi Kera4d  , melakukan pendaftaran akun, lalu login ke dalam platform untuk menikmati berbagai permainan yang tersedia.
+      Untuk mulai bermain di Asia88  , pengguna cukup mengunjungi situs resmi Asia88  , melakukan pendaftaran akun, lalu login ke dalam platform untuk menikmati berbagai permainan yang tersedia.
     </div>
   </div>
 
 <!-- FAQ 6 -->
   <div class="faq-item">
-    <button class="faq-question">6. Mengapa Kera4d menjadi pilihan hiburan game spin saat ini?</button>
+    <button class="faq-question">6. Mengapa Asia88 menjadi pilihan hiburan game spin saat ini?</button>
     <div class="faq-answer">
-      Kera4d menjadi populer karena menghadirkan pengalaman bermain yang modern, pilihan permainan yang lengkap, serta konsep hiburan yang santai sehingga pemain dapat menikmati setiap putaran permainan dengan lebih menyenangkan.
+      Asia88 menjadi populer karena menghadirkan pengalaman bermain yang modern, pilihan permainan yang lengkap, serta konsep hiburan yang santai sehingga pemain dapat menikmati setiap putaran permainan dengan lebih menyenangkan.
     </div>
   </div>
 
@@ -1697,7 +1697,7 @@ Selamat datang di Asia88 Akses Resmi Google Update Terbaru Tanpa Gangguan Server
             <div>
               <div class="review-name">Labubu - Jakarta</div>
               <div class="review-text">
-                “Saya sudah mencoba banyak platform game online, tapi Kera4d terasa berbeda. Tampilan permainannya modern dan setiap spin memberikan sensasi yang seru. Yang paling saya suka adalah aksesnya cepat dan mudah digunakan.”
+                “Saya sudah mencoba banyak platform game online, tapi Asia88 terasa berbeda. Tampilan permainannya modern dan setiap spin memberikan sensasi yang seru. Yang paling saya suka adalah aksesnya cepat dan mudah digunakan.”
               </div>
             </div>
           </div>
@@ -1707,7 +1707,7 @@ Selamat datang di Asia88 Akses Resmi Google Update Terbaru Tanpa Gangguan Server
             <div>
               <div class="review-name">Srey Neang - Poipet</div>
               <div class="review-text">
-                “Pertama kali mencoba Kera4d hanya karena penasaran, tapi ternyata cukup menyenangkan. Pilihan permainan spin yang tersedia juga beragam, jadi tidak cepat bosan saat bermain.”
+                “Pertama kali mencoba Asia88 hanya karena penasaran, tapi ternyata cukup menyenangkan. Pilihan permainan spin yang tersedia juga beragam, jadi tidak cepat bosan saat bermain.”
               </div>
             </div>
           </div>
@@ -1717,7 +1717,7 @@ Selamat datang di Asia88 Akses Resmi Google Update Terbaru Tanpa Gangguan Server
             <div>
               <div class="review-name">Oun Ya Ya - Poipet</div>
               <div class="review-text">
-                “Menurut saya Kera4d adalah salah satu platform hiburan digital yang menarik saat ini. Permainannya simpel, tampilannya bagus, dan pengalaman bermainnya terasa santai namun tetap seru.”
+                “Menurut saya Asia88 adalah salah satu platform hiburan digital yang menarik saat ini. Permainannya simpel, tampilannya bagus, dan pengalaman bermainnya terasa santai namun tetap seru.”
               </div>
             </div>
           </div>
